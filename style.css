@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  a{
+    text-decoration: none;
+  }
+
+  .nav{
+    width: 100%;
+    background-color: rgb(212, 206, 206);
+    text-align: center;
+    text-decoration: none;
+    word-spacing: 100px;
+    position: fixed;
+    padding-top: 11px;
+    font-size: 25px;
+  }
+  .img1{
+    padding-top: 11px;
+    width: 800px;
+    height: 950px;
+    position: fixed;
+  }
+  .name-ofme{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    margin-top: 250px;
+    text-align: center;
+    font-size: 70px;
+  }
+  .portfolio{
+    font-size: 60px;
+    font-family: Snell Roundhand, cursive;
+    text-align: center;
+    margin-left: 105px;
+  }
+  .welcome{
+    color: orange;
+    font-size: 50px;
+    margin-top: 70px;
+  }
+  .p1{
+    font-size: 30px;
+  }
+  .p2{
+    font-size: 20px;
+  }
+  .sec1{
+    width: 1000px;
+    background-color: rgb(226, 226, 245);
+    border-radius: 50px;
+    text-align: center;
+    
+    margin-left: 850px;
+    margin-top: 70px;
+  }
+  .sec2{
+    font-size: 22px;
+    width: 1000px;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 850px;
+    margin-top: 70px;
+  }
+  .contact{
+    padding-right: 800px;
+    font-size: 30px;
+  }
+  .town{
+    margin-right: 160px;
+  }
+  .skills-list {
+    list-style: none;
+    padding: 0;
+    font-size: 20px;
+}
+.div2{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 850px;
+    margin-top: 70px;
+}
+.section2{
+    text-align: center;
+    margin-left: 850px;
+    margin-top: 70px;
+}
+  .user-image{
+    margin-top: 10px;
+  }
+  .par{
+    margin-left: 820px;
+  }
+  .footbar{
+    font-size: 16px;
+    padding-right: 100px;
+    text-align: center;
+    margin-left: 800px;
+    padding-left: 120px;
+    padding-bottom: 100px;
+    margin-top: 210px;
+    background-color: rgb(248, 236, 236);
+  }
+  .copyright{
+    padding-top: 150px;
+    font-size: 20px;
+  }
